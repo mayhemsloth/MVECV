@@ -5,12 +5,15 @@ I was inspired to create this notebook by some random headline statistic thrown 
 
 So I thought I would calculate this metric for other US elections. I am going to officially call this metric the **"Marginal Votes for Electoral College Victory"** or **MVECV**. This is described as **the minimum number of popular votes needed to add to the Electoral College loser across all states such that the Electoral College loser becomes the Electoral College winner**.
 
-Here are the figures I made that summarizes my calculation. If you want to know more information about how the calculations were done, or why I am displaying data only from 1976 and onwards, or why I have a Figure 1-alt, you can look through the Notebook for that information.
+Here are the figures I made that summarizes my calculations. If you want to know more information about where the data came from, how the calculations were done, why I am displaying data only from 1976 and onwards, or why I have a Figure 1-alt, you can look through the Notebook for that information. Additionally, the Discussion section in the Notebook contains more information about what you can learn from these figures. 
 
 ![Figure 1](/images/fig1.png)
 
+
 ![Figure 1-alt](/images/fig1-alt.png)
 
+
 ![Figure 2](/images/fig2.png)
+
 
 ![Figure 3](/images/fig3.png)
