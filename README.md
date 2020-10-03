@@ -9,15 +9,16 @@ So I thought I would calculate this metric for other US elections. I am going to
 ## Figures
 Here are the figures I made that summarizes my calculations. **If you want to know more information about where the data came from**, how the calculations were done, why I am displaying data only from 1976 and onwards, or why I have a Figure 1-alt, you can look through the Notebook for that information. Additionally, the Discussion section in the Notebook contains more information about what you can learn from these figures. 
 
+### Figure 1
 ![Figure 1](/images/fig1.png)
 
-
+### Figure 1-alt
 ![Figure 1-alt](/images/fig1-alt.png)
 
-
+### Figure 2
 ![Figure 2](/images/fig2.png)
 
-
+### Figure 3
 ![Figure 3](/images/fig3.png)
 
 ## Vote!
