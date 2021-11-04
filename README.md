@@ -10,16 +10,16 @@ So I thought I would calculate this metric for other US elections. I am going to
 Here are the figures I made that summarizes my calculations. **If you want to know more information about where the data came from**, how the calculations were done, why I am displaying data only from 1976 and onwards, or why I have a Figure 1-alt, you can look through the Notebook for that information. Additionally, the Discussion section in the Notebook contains more information about what you can learn from these figures. 
 
 ### Figure 1
-![Figure 1](/images/fig1.png)
+![Figure 1](/images/Figure1_2020.jpg)
 
 ### Figure 1-alt
-![Figure 1-alt](/images/fig1-alt.png)
+![Figure 1-alt](/images/Figure1alt_2020.jpg)
 
 ### Figure 2
-![Figure 2](/images/fig2.png)
+![Figure 2](/images/Figure2_2020.jpg)
 
 ### Figure 3
-![Figure 3](/images/fig3.png)
+![Figure 3](/images/Figure3_2020.jpg)
 
 ## Vote!
 It turns out that US presidential elections are usually closer than the Electoral College victory margin makes it seem. Go to [vote.gov](vote.gov) to register to vote. 
